@@ -1,1 +1,1 @@
-print("Devansh faujdar is madarchod")
+print("Devansh faujdar")
